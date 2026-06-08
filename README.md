@@ -177,3 +177,7 @@ Please make sure to follow the format used in this repository.
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for marketing AI agents. Verify agent identity before accessing customer data APIs or making autonomous x402 micropayments for lead enrichment. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
