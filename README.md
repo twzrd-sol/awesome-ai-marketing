@@ -104,6 +104,10 @@ By **[Altern](https://altern.ai)**
 - **[Replai](https://www.replai.com)**  
   AI-powered automation platform for Facebook and Google Ads to optimize ad campaigns and boost ROI.
 
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)**  
+  Trust scoring and identity verification for AI marketing automation bots on Solana. Before an AI agent accesses paid social media APIs via x402 micropayments, verify its wallet identity. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Analytics
 
 - **[PaveAI](https://www.paveai.com)**  
